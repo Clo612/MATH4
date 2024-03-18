@@ -38,3 +38,4 @@ Kotlin: Install Kotlin: Follow the instructions on the official website. Save yo
 Groovy: Install Groovy: sudo apt-get install groovy (for Debian-based systems). Save your Groovy script with a .groovy extension. Run: groovy script.groovy You can adapt these steps based on your Linux distribution and the specifics of each programming language's setup and execution. Keep in mind that these instructions are general and may require adjustments based on your system's configuration.
 
 Note: Not all the codes listed above are complete yet for our services.
+# MATH4: Bash Has Been Discountued from main MATH4
